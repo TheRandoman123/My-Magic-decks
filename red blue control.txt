@@ -1,35 +1,49 @@
 Creatures{
-Scribe the mindful(1)
+Enigma Drake (1)
+Scribe of the mindful(4)
 Lathnu Sailback(1)
-Cryptic Serpent(1)
-Emberhorn Minotaur(1)
+Cryptic Serpent(2)
+Emberhorn Minotaur(3)
 Hyena Pack(1)
+Manticore of the Gauntlet (1)
+Whirler Virtuoso (2)
+Maverick Thopterist (2)
+Hyena Pack (1)
 }
 
 
 Land{
-Island(1)
-Mountin(1)
+Island(13)
+Mountin(12)
 }
 
 
 Instants{
-
-Fling(1)
+Essence Scatter (4)
+Fling(3)
+Negate (4)
+Cancel (2)
+Select for Inspection (1)
+Disperse (1)
+Comperitve Analisis (1)
+Pursue Glory (1)
+Shock (1)
 }
 
 
 
 Sorcerys{
-
+----None----
 }
 
 Artifacts{
-
+Renagade Map (4)
+Ediface of Authority (1)
+Seer's Lantern (1)
 }
 
 Enchantments{
-Spitful Motives(1)
+Spitful Motives(2)
 }
 
 
