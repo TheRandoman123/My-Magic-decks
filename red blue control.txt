@@ -1,0 +1,35 @@
+Creatures{
+Scribe the mindful(1)
+Lathnu Sailback(1)
+Cryptic Serpent(1)
+Emberhorn Minotaur(1)
+Hyena Pack(1)
+}
+
+
+Land{
+Island(1)
+Mountin(1)
+}
+
+
+Instants{
+
+Fling(1)
+}
+
+
+
+Sorcerys{
+
+}
+
+Artifacts{
+
+}
+
+Enchantments{
+Spitful Motives(1)
+}
+
+
